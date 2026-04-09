@@ -43,7 +43,7 @@
 ---
 
 ## 🌍 Feedback & Support
-* **Issues**: Found a bug? [Open an issue here](https://github.com/你的用户名/你的仓库名/issues).
+* **Issues**: Found a bug? [Open an issue here](https://github.com/greedred/free-ai-voice-tts-srt/issues).
 * **Contact**: Reach out via the website for commercial inquiries or API access.
 
 ---
