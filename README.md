@@ -1,6 +1,6 @@
 # 🎙️ VoiceIndex AI: AI Text-to-Speech & Speech-to-Text Toolkit
 
-**VoiceIndex AI** is a professional-grade AI voice platform built for content creators, e-commerce sellers, and educators. It provides a seamless way to convert text into natural-sounding speech and manage content with precision.
+**VoiceIndex AI** is a professional-grade AI voice platform built for content creators, e-commerce sellers, and educators. It provides a seamless way to convert text into natural-sounding speech an[...]
 
 🚀 **Direct Link:** [https://voiceflow.ccwu.cc/](https://voiceflow.ccwu.cc/)
 
@@ -42,9 +42,15 @@
 
 ---
 
+## 🔗 Useful Deep Links
+* [Explore AI Voices](https://voiceflow.ccwu.cc/en/voices/)
+* [Speech to Text](https://voiceflow.ccwu.cc/en/speech-to-text)
+
+---
+
 ## 🌍 Feedback & Support
 * **Issues**: Found a bug? [Open an issue here](https://github.com/greedred/free-ai-voice-tts-srt/issues).
 * **Contact**: Reach out via the website for commercial inquiries or API access.
 
 ---
-**[Start Creating with VoiceIndex AI Now](https://voiceflow.ccwu.cc/)**
+**[Start Creating with VoiceIndex AI Now](https://voiceflow.ccwu.cc/)
